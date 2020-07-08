@@ -1,7 +1,7 @@
 {
-  "name": "@lfe/react-scripts",
+  "name": "react-scripts-webpack-chain",
   "version": "0.0.1",
-  "description": "fork create-react-app/react-scripts",
+  "description": "fork create-react-app/react-scripts@3.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/tranter1991/react-script.git"
